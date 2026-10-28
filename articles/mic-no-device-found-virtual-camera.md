@@ -3,8 +3,10 @@ title: "ClaudeデスクトップやChrome内の通話でマイクが「No device
 emoji: "🎙️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [ "Windows", "Chrome", "Electron", "Claude" ]
-published: false
+published: true
 ---
+
+## はじめに
 
 Windows 版の Claude デスクトップアプリでボイスモードを使おうとしたところ、マイクが「No device found」と表示され、使えなかった。いろいろ試した結果、しばらく使っていなかった仮想カメラをアンインストールすると直った。検索しても同じ事例が見つからず、かなりはまったので記録しておく。
 
